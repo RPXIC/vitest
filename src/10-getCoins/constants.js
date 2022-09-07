@@ -1,0 +1,10 @@
+export const test1 = 51
+export const result1 = [1, 0, 0, 0, 0, 1]
+export const test2 = 3
+export const result2 = [1, 1, 0, 0, 0, 0]
+export const test3 = 5
+export const result3 = [0, 0, 1, 0, 0, 0]
+export const test4 = 16
+export const result4 = [1, 0, 1, 1, 0, 0]
+export const test5 = 100
+export const result5 = [0, 0, 0, 0, 0, 2]
