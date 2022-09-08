@@ -1,0 +1,25 @@
+export const test1 = '...'
+export const test2 = '.,'
+export const test3 = ',.'
+export const test4 = ',...'
+export const test5 = '.........!'
+export const test6 = '.;'
+export const test7 = '..,'
+export const test8 = '..,!'
+export const test9 = '.;!'
+export const test10 = '!!!'
+export const test11 = ';!'
+export const test12 = ';.W'
+
+export const res1 = 3
+export const res2 = 4
+export const res3 = 6
+export const res4 = 8
+export const res5 = 107
+export const res6 = 49
+export const res7 = 5
+export const res8 = 95
+export const res9 = 49
+export const res10 = 300
+export const res11 = 50
+export const res12 = NaN
